@@ -56,8 +56,6 @@ and:
 VOICE → TEXT
 speech
     ↓
-mobile application
-    ↓
 speech-to-text
     ↓
 wireless communication
