@@ -29,10 +29,6 @@ The left glove is the display path. Its five flex sensors and MPU6050
 provide another sensing input, while the ESP32 receives text from the
 communication system and displays it on a TFT.
 
-The mobile application provides the reverse communication path. A
-communication partner speaks into the phone, speech is converted into
-text, and the text is sent wirelessly to the display glove.
-
 The overall flow is:
 
 ``` text
