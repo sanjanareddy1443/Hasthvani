@@ -32,8 +32,8 @@ The core idea is to create a **two-way communication bridge**:
           │                             │
        SIGN → VOICE                  VOICE → TEXT
           │                             │
-   Right Smart Glove              Mobile Application
-          │                             │
+   Right Smart Glove           
+          │             
    Gesture Recognition             Speech-to-Text
           │                             │
      ESP32 + Sensors              Bluetooth / Wi-Fi
